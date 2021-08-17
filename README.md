@@ -13,5 +13,9 @@ The purpose of this analysis is to provide the CEO V.Isualize of PyBer a ride sh
   ** Average fare per ride for each city type
 
   ** Average fare per driver for each city type
+  
+  ** PYBer Fare Summary
+  
+  [PyBerFare Summary]()
 
 ### Summary
