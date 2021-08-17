@@ -17,6 +17,6 @@ The purpose of this analysis is to provide the CEO V.Isualize of PyBer a ride sh
   ** PYBer Fare Summary
   
   
-  [PyBer Fare Summary](images/https://github.com/wallaceportia/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+  ![PyBer Fare Summary](https://github.com/wallaceportia/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 ### Summary
