@@ -24,12 +24,13 @@ The purpose of this analysis is to provide the CEO V.Isualize of PyBer an app ba
  * The average fare per ride in suburban areas is $30.97 just about $4.00 less than rural fares
  * The average fare per ride in uban areas is $24.53 just about $6.00 less than suburban fares and appoximately less than $10.00 less than rural fares
  
- ###### Average fare per driver for each city type
+ ###### Average fare per driver for each city type(Total fares/total drivers)
   * The average fare per driver in rural areas is $55.44
   * The average fare per driver in suburban areas is $39.50 approxiamately $15.00 less than rural drivers
   * The average fare per driver in urban areas is $16.57, approxiamately 2.5 times less than suburan drivers and approximately 3.5 times less than than rural drivers
    
  ## Table 1 Summary Data
+ ![Summary Data](https://github.com/wallaceportia/PyBer_Analysis/blob/main/Resources/PYBer_Summary_Data.PNG)
  
   ** PYBer Fare Summary
     
