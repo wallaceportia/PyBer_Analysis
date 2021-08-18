@@ -32,8 +32,10 @@ The purpose of this analysis is to provide the CEO V.Isualize of PyBer an app ba
  ## Table 1 Summary Data
  ![Summary Data](https://github.com/wallaceportia/PyBer_Analysis/blob/main/Resources/PYBer_Summary_Data.PNG)
  
-  ** PYBer Fare Summary
+ ## Table 2 PYBer Weekly Fare by City-Type 
+ ![Weekly Fares](https://github.com/wallaceportia/PyBer_Analysis/blob/main/Resources/Week_fares_by_city_type.PNG)
     
   ![PyBer Fare Summary](https://github.com/wallaceportia/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 ### Summary
+It is not explicitly stated that drivers for PyBer purchase there own cars or if the cars are provided by the company.  However it would seem that if they provided the cars that ride sharing would not be the most effective business model for rural areas.  It would seem logical that most people living in rural areas will own their own cars and will less likely be interested in ride shareing.  Also the fact that the proximity of homes will be much further apart than in suburban and urban areas will also make this a less attrative option of travel for rural dwellers.  
